@@ -6,7 +6,7 @@ import org.example.seydaliev.service.ParserJson;
 
 import java.util.List;
 
-public class Start {
+public class Main {
     public static final String PATH = "src/main/resources/tickets.json";
     @SneakyThrows
     public static void main(String[] args) {
